@@ -12,6 +12,7 @@ Joanderson Lucas
 
 Hemerson Rafael P. Pontes - hrpp@ufrn.edu.br
 
+Lucas Lima
 ...
 
 ------------------------------------------------------
